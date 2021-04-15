@@ -1,0 +1,6 @@
+pudb
+requests
+coverage
+wheel
+setuptools
+twine
